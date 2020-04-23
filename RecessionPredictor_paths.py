@@ -6,7 +6,7 @@ import datetime as dt
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))   
 
-fred_api_key = ''
+fred_api_key = 'b6c3864d78164c690b47e109bbe65490'
 now = dt.datetime.now()
 month = now.strftime('%m')
 year = now.year
